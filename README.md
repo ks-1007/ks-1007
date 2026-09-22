@@ -1,51 +1,134 @@
 <div align="center">
-<img width="100%" height = "400px" src="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067" alt="cover" />
-</div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+# 👋 Hi, I'm Kumar Saurav
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ks-1007.ks-1007)
+### Senior Frontend Engineer | React | Next.js | TypeScript
 
+Building scalable, performant, and enterprise-grade web applications.
+
+<p>
+  <a href="https://www.linkedin.com/in/kumar-saurav-90a898179">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://kumar-saurav-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://github.com/ks-1007">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
-<div size='20px'> Hi! My name is Kumar Saurav. Thank You for taking the time to view my GitHub Profile :smile: 
+
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+---
 
+## 👨‍💻 About Me
 
+Senior Frontend Engineer with **5 years of experience** building high-throughput web applications serving **30M+ users** across PhonePe and OLA.
 
+- ⚛️ Specialized in **React, Next.js, TypeScript, and Redux Toolkit**
+- 🏗️ Experienced in **Frontend Architecture, Design Systems, and Micro-frontends**
+- ⚡ Focused on **Core Web Vitals, performance optimization, and scalable UI systems**
+- 📊 Experienced in **real-time dashboards, data visualization, and geospatial applications**
+- 🧪 Experienced with **Jest, Playwright, Cypress, CI/CD, and production telemetry**
+- 🤖 Exploring **AI-assisted development workflows and AI engineering**
+- 🧠 Strong problem-solving skills with a solid foundation in **Data Structures & Algorithms**
 
+---
 
-- 💬 Talk to me about JavaScript, React, Node, MongoDB, Data Structures and Algorithms 
+## 🛠️ Tech Stack
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/ks-1007?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/ks-1007?tab=repositories&q=&type=&language=redux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> </a>
-<a href= https://github.com/ks-1007?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/ks-1007?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/ks-1007?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
-<a href= https://github.com/ks-1007?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
-<a href= https://github.com/ks-1007?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/ks-1007?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+### Frontend
 
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind,html,css" />
+</p>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/kumar-saurav-90a898179'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://kumar-saurav-portfolio.vercel.app/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/ks-1007'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+### Backend & Infrastructure
 
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,webpack,vite,docker,git" />
+</p>
 
+### Testing & Monitoring
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+`Jest` • `Playwright` • `Cypress` • `New Relic` • `Sentry`
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ks-1007&count_private=true&show_icons=true&theme=default" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks-1007&theme=default" />
-</a>
+### Other Technologies
 
+`React Flow` • `MapLibre` • `ECharts` • `Plotly` • `Highcharts`  
+`WebSockets` • `REST APIs` • `Design Systems` • `Micro-frontends` • `Core Web Vitals`
 
+---
 
-<br>
+## 💼 Experience
+
+### 🏢 PhonePe
+**Senior Frontend Engineer**
+
+Building scalable enterprise platforms across **frontend architecture, design systems, observability, performance optimization, and developer tooling**.
+
+- Architected frontend systems for high-traffic merchant and internal engineering platforms.
+- Built interactive service dependency and observability applications used by engineering teams.
+- Worked on performance optimization, automated testing, CI/CD, and AI-assisted development workflows.
+
+### 🏢 OLA
+**Software Development Engineer**
+
+Worked on large-scale mobility and EV products involving **React, Next.js, real-time data, and geospatial applications**.
+
+- Built customer and internal platforms used across multiple cities.
+- Developed real-time EV fleet monitoring and geospatial experiences.
+- Led frontend and mapping infrastructure improvements focused on performance and cost optimization.
+
+---
+
+## 🚀 Highlights
+
+- 🌍 Applications serving **30M+ active users**
+- 🏪 Merchant platform serving **5M+ active merchants**
+- 🌳 Service dependency platform mapping **100+ microservices**
+- 🚗 Real-time EV monitoring for **50K+ vehicles**
+- 📍 Geospatial systems handling **2M+ daily location pings**
+- 🧪 **1,200+ automated tests** across CI/CD pipelines
+
+These numbers are drawn directly from your resume and give the profile some useful engineering scale without turning the README into another CV. :contentReference[oaicite:1]{index=1}
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ks-1007&show_icons=true&hide_border=true&count_private=true"
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks-1007&layout=compact&hide_border=true"
+    height="170"
+  />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/kumar-saurav-90a898179">
+    <img src="https://img.shields.io/badge/LinkedIn-Kumar%20Saurav-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://kumar-saurav-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-kumar--saurav-black?style=flat-square&logo=vercel" />
+  </a>
+  <a href="https://github.com/ks-1007">
+    <img src="https://img.shields.io/badge/GitHub-ks--1007-black?style=flat-square&logo=github" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 Build. Learn. Ship.
+
+</div>
